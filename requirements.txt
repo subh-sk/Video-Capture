@@ -1,9 +1,3 @@
 # Run the requirements.txt in terminal/cmd = pip install -r requirements.txt
 
-SpeechRecognition
-pyttsx3
-pyAudio
-pywhatkit
-wikipedia
-google
 opencv-python
