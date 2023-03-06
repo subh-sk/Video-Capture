@@ -5,4 +5,3 @@ video recording application using python
 2. Run the Video-Capture.py 
 3. press 'r' button for start/stop recording and 'q' for terminate video screen
 
-need to highlight these ==very important words==
